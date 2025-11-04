@@ -9,41 +9,11 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 [LinkedIn 🔗](https://www.linkedin.com/in/yash-rajesh-deshpande/)
 
 ---
+### ⚡ Skills & Tools
 
-### 🧠 Tech Stack
-
-#### 👨‍💻 Languages
-- JavaScript  
-- SQL | NoSQL  
-
-#### ⚙️ Backend & Frameworks
-- Node.js | Express.js  
-- Sequelize ORM  
-
-#### 🗄️ Databases
-- PostgreSQL  
-- MongoDB  
-
-#### 🛠️ DevOps & Tools
-- Git • GitHub  
-- Docker  
-- Postman  
-- Basics of CI/CD & AWS *(learning)*  
-
----
-
-### 🔭 Current Projects
-- School / College **ERP Backend System**
-- OAuth2 Authentication & Authorization
-- Payment & Student Fee Management System
-
----
-
-### 📊 GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-deshpande24&show_icons=true&theme=light)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-deshpande24&layout=compact&theme=light)
+| Linux | AWS | Git | Docker | Kubernetes | Terraform |
+|-------|-----|-----|--------|-----------|-----------|
+| 🐧   |  ☁️ |  🧠 |    🐳 |       ☸️ |        🌍 |
 
 ---
 
