@@ -13,7 +13,7 @@ I love working with **Node.js, PostgreSQL, MongoDB, Docker**, and exploring **Cl
 
 ### 🌐 Connect with Me
 
-[LinkedIn 🔗](#)  • [Email ✉️](mailto:your-email@example.com)
+[LinkedIn 🔗](https://www.linkedin.com/in/yash-rajesh-deshpande/)
 
 ---
 
