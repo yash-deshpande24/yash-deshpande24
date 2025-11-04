@@ -41,4 +41,13 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
+### 📊 GitHub Stats
+
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-deshpande24&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-deshpande24&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-deshpande24&layout=compact&theme=radical)
+
+
 # https://github.com/yash-deshpande24
