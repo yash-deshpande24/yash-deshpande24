@@ -1,13 +1,6 @@
-## 👋 Hi, I'm Yash Deshpande
-
-### 💻 Full-Stack Developer | Backend Engineer | DevOps Enthusiast
-
-I'm a passionate developer focused on building scalable backend systems & clean APIs.  
-I love working with **Node.js, PostgreSQL, MongoDB, Docker**, and exploring **Cloud & DevOps**.
-
-🎓 MCA Graduate  
-⚙️ Building School/College ERP backend  
-🚀 Learning Cloud • Docker • CI/CD • Microservices  
+## About Me
+---
+Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud computing, automation, and building scalable applications. I am also a recent Electronics and Telecommunication Engineering graduate.
 
 ---
 
