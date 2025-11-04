@@ -23,13 +23,6 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 |--------|-------------|-----------|
 | **Café Management App** | Web app to manage café orders, billing, and menu with admin control | <img src="https://cdn.simpleicons.org/react" width="25"/> React.js • <img src="https://cdn.simpleicons.org/java" width="25"/> Java • <img src="https://cdn.simpleicons.org/docker" width="25"/> Docker • <img src="https://cdn.simpleicons.org/kubernetes" width="25"/> Kubernetes |
 
-## 🚀 Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|-----------|------|
-| ☕ Cafe Management App | A full-featured cafe management system including user roles, orders, billing, and inventory | React.js • Java • Docker • Kubernetes | 🔗 [Github Repository](https://github.com/yash-deshpande24/cafe-app.git) |
-
-
 ---
 
 ### 🏆 Achievements & Interests
@@ -48,5 +41,4 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
-> ⭐ *If you like what I do, consider giving my repositories a star!*  
-> ✨ *Let's connect & build amazing things together!*
+> https://github.com/yash-deshpande24
