@@ -11,9 +11,9 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 ---
 ### ⚡ Skills & Tools
 
-| Linux | AWS | Git | Docker | Kubernetes | Terraform |
-|-------|-----|-----|--------|-----------|-----------|
-| 🐧   |  ☁️ |  🧠 |    🐳 |       ☸️ |        🌍 |
+| Linux                                                                               | AWS                                                                                       | Git                                                                                | Docker                                                                                   | Kubernetes                                                                                       | Terraform                                                                                      |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Linux-000?logo=linux&style=for-the-badge" /> | <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" /> | <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&style=for-the-badge" /> |
 
 ---
 
