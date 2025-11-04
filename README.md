@@ -6,8 +6,7 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ### 🌐 Connect with Me
 
-[![Yash Deshpande LinkedIn](https://img.shields.io/badge/Yash%20Deshpande-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-rajesh-deshpande/)
-
+[![LinkedIn](https://img.shields.io/badge/Yash%20Deshpande-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-rajesh-deshpande/)
 
 ---
 ### ⚡ Skills & Tools
