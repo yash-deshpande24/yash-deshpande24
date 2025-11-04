@@ -6,10 +6,11 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ### 🌐 Connect with Me
 
-> 📎 **Links**
-> 
-> 🔗 [LinkedIn](https://www.linkedin.com/in/yash-rajesh-deshpande/)  
-> 🐙 [GitHub](https://github.com/yash-deshpande24)
+| Platform | Link |
+|---------|------|
+| 🔗 LinkedIn | https://www.linkedin.com/in/yash-rajesh-deshpande/ |
+| 🐙 GitHub | https://github.com/yash-deshpande24 |
+
 
 
 ---
