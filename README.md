@@ -17,6 +17,14 @@ Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud comput
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|-----------|
+| **Café Management App** | Web app to manage café orders, billing, and menu with admin control | <img src="https://cdn.simpleicons.org/react" width="25"/> React.js • <img src="https://cdn.simpleicons.org/java" width="25"/> Java • <img src="https://cdn.simpleicons.org/docker" width="25"/> Docker • <img src="https://cdn.simpleicons.org/kubernetes" width="25"/> Kubernetes |
+
+---
+
 ### 🏆 Achievements & Interests
 - ✅ Backend Engineering & Databases
 - ☁️ Exploring Cloud & DevOps
