@@ -1,6 +1,6 @@
 ## About Me
 ---
-Hi, I'm Dhiraj Deshmukh, a passionate DevOps Engineer interested in cloud computing, automation, and building scalable applications. I am also a recent Electronics and Telecommunication Engineering graduate.
+Hi, I'm yash 12cha deshpande, a passionate DevOps Engineer interested in cloud computing, automation, and building scalable applications. I am also a recent Electronics and Telecommunication Engineering graduate.
 
 ---
 
