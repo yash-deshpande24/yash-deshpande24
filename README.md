@@ -1,53 +1,77 @@
-## About Me
----
-Hi, I'm yash deshpande, a passionate DevOps Engineer interested in cloud computing, automation, and building scalable applications. I am also a recent Electronics and Telecommunication Engineering graduate.
+
+
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+</p>
+
+
+I'm **Yash Deshpande**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yash-rajesh-deshpande/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
 
----
-### ⚡ Skills & Tools
 
-| Linux                                                     | AWS                                                           | Git                                                     | Docker                                                     | Kubernetes                                                     | Terraform                                                     |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img src="https://cdn.simpleicons.org/linux" width="40"/> | <img src="https://cdn.simpleicons.org/amazonaws" width="40"/> | <img src="https://cdn.simpleicons.org/git" width="40"/> | <img src="https://cdn.simpleicons.org/docker" width="40"/> | <img src="https://cdn.simpleicons.org/kubernetes" width="40"/> | <img src="https://cdn.simpleicons.org/terraform" width="40"/> |
 
 ---
 
-## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|-----------|
-| **Café Management App** | Web app to manage café orders, billing, and menu with admin control | <img src="https://cdn.simpleicons.org/react" width="25"/> React.js • <img src="https://cdn.simpleicons.org/java" width="25"/> Java • <img src="https://cdn.simpleicons.org/docker" width="25"/> Docker • <img src="https://cdn.simpleicons.org/kubernetes" width="25"/> Kubernetes |
+![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
 
----
-
-### 🏆 Achievements & Interests
-- ✅ Backend Engineering & Databases
-- ☁️ Exploring Cloud & DevOps
-- 🚀 Building real-world system architecture projects
-- 💡 Passionate about automation & scalable applications
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 💬 Ask Me About
-- API Development  
-- Database Design  
-- Authentication & Authorization  
-- Backend Architecture (Node + SQL/NoSQL)  
+## 🛠️ Tools & Technologies:
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200"></img></p>
+
+
+| Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
+|----------|----------|----------|----------|------|------|------|-------|------|------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
+
+
+
+
 
 ---
 
-### 📊 GitHub Stats
+![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-deshpande24&show_icons=true&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-deshpande24&theme=radical)
+## 🌱 Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-deshpande24&layout=compact&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=yash-deshpande24&color=green&style=flat-square)
 
-# https://github.com/yash-deshpande24
+---
+
+## 🚀 Featured Projects
+
+### [📦 Project Angular App AWS](https://github.com/yash-deshpande24/Project-Angular-App-AWS.git)
+A serverless Angular application deployed on AWS infrastructure.
+
+- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
+- **Features**:
+  - Scalable frontend hosted on AWS S3
+  - Secure domain mapping using Route 53
+  - CDN integration via CloudFront for faster delivery
+
+---
+
+### [🎥 Netflix Clone](https://github.com/yash-deshpande24/netflix.git)
+A Netflix-inspired application with movie browsing and streaming features.
+
+- **Tech Stack**: React.js, TMDB API
+- **Features**:
+  - Browse and search for movies by genre
+  - Modern, responsive design
