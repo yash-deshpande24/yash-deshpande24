@@ -57,21 +57,3 @@ I'm **Yash Deshpande**, a passionate DevOps Engineer with a love for cloud compu
 
 ## 🚀 Featured Projects
 
-### [📦 Project Angular App AWS](https://github.com/yash-deshpande24/Project-Angular-App-AWS.git)
-A serverless Angular application deployed on AWS infrastructure.
-
-- **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
-- **Features**:
-  - Scalable frontend hosted on AWS S3
-  - Secure domain mapping using Route 53
-  - CDN integration via CloudFront for faster delivery
-
----
-
-### [🎥 Netflix Clone](https://github.com/yash-deshpande24/netflix.git)
-A Netflix-inspired application with movie browsing and streaming features.
-
-- **Tech Stack**: React.js, TMDB API
-- **Features**:
-  - Browse and search for movies by genre
-  - Modern, responsive design
