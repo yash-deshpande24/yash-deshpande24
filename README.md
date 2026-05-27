@@ -49,3 +49,59 @@ I'm **Yash Deshpande**, a passionate DevOps Engineer with a love for cloud compu
 
 ## 🚀 Featured Projects
 
+### ☁️ Cloud Native Banking Management System
+A full-stack cloud-native banking application built with modern DevOps and cloud technologies.
+
+🔹 React.js Frontend  
+🔹 Node.js Backend  
+🔹 MongoDB Database  
+🔹 Docker & Kubernetes  
+🔹 Terraform Infrastructure as Code  
+🔹 Jenkins CI/CD Pipeline  
+🔹 AWS Cloud Deployment  
+🔹 CloudWatch Monitoring  
+
+🔗 GitHub Repo:  
+[Cloud Native Banking Management System](https://github.com/yash-deshpande24/Cloud-Native-Banking-Management-System)
+
+---
+
+### 📋 CloudTask Manager
+A cloud-based task management platform designed with scalable DevOps architecture and CI/CD automation.
+
+🔹 React.js + Node.js  
+🔹 Dockerized Application  
+🔹 Terraform AWS Infrastructure  
+🔹 GitHub Actions / Jenkins CI/CD  
+🔹 Kubernetes Deployment  
+🔹 Monitoring & Logging  
+
+🔗 GitHub Repo:  
+[CloudTask Manager](https://github.com/yash-deshpande24/cloudtask-manager)
+
+---
+
+### 🛍️ Myntra Clone Project
+A frontend e-commerce UI inspired by Myntra with responsive design and modern web technologies.
+
+🔹 HTML, CSS, JavaScript  
+🔹 Responsive UI Design  
+🔹 Product Listing & Shopping Layout  
+
+🔗 GitHub Repo:  
+[Myntra Projects](https://github.com/yash-deshpande24/Myntra-Projects)
+
+---
+
+### ✈️ Flight Reservation DevOps Project
+A DevOps-focused flight reservation system demonstrating deployment automation and cloud infrastructure.
+
+🔹 CI/CD Pipeline  
+🔹 Docker & Kubernetes  
+🔹 AWS Deployment  
+🔹 Infrastructure Automation  
+
+🔗 GitHub Repo:  
+[Flight Reservation Project DevOps](https://github.com/yash-deshpande24/Flight-reservation-project-Devops)
+
+---
